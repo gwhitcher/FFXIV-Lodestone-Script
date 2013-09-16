@@ -1,0 +1,13 @@
+label {
+	font-weight: bold;	
+}
+
+#clear {
+	clear: both;
+}
+
+#floatleft {
+	float: left;
+	text-align: center;
+	padding: 3px;
+}
